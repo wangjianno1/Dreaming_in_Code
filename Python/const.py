@@ -1,7 +1,7 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 """
-file: autocheck_common.py
+file: const.py
 data: 2016-08-25
 """
 
