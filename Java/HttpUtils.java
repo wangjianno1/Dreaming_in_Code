@@ -1,4 +1,4 @@
-package com.sohu.testmaven.utils;
+package com.bat.testmaven.utils;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
